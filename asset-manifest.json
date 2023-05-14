@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/ReactRegisterPage/static/css/main.eab45afc.css",
-    "main.js": "/ReactRegisterPage/static/js/main.c34596c1.js",
+    "main.js": "/ReactRegisterPage/static/js/main.387c2705.js",
     "static/js/787.53937788.chunk.js": "/ReactRegisterPage/static/js/787.53937788.chunk.js",
     "static/media/웰컴체 Regular.ttf": "/ReactRegisterPage/static/media/웰컴체 Regular.a35fda31b80bc5fc1a09.ttf",
     "static/media/웰컴체 Bold.ttf": "/ReactRegisterPage/static/media/웰컴체 Bold.e9ba228ee3ad08fbaa59.ttf",
     "static/media/logo.svg": "/ReactRegisterPage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ReactRegisterPage/index.html",
     "main.eab45afc.css.map": "/ReactRegisterPage/static/css/main.eab45afc.css.map",
-    "main.c34596c1.js.map": "/ReactRegisterPage/static/js/main.c34596c1.js.map",
+    "main.387c2705.js.map": "/ReactRegisterPage/static/js/main.387c2705.js.map",
     "787.53937788.chunk.js.map": "/ReactRegisterPage/static/js/787.53937788.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eab45afc.css",
-    "static/js/main.c34596c1.js"
+    "static/js/main.387c2705.js"
   ]
 }
