@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72cf22f2.css",
+    "main.js": "/static/js/main.8da6d76d.js",
+    "static/js/787.53937788.chunk.js": "/static/js/787.53937788.chunk.js",
+    "static/media/웰컴체 Regular.ttf": "/static/media/웰컴체 Regular.a35fda31b80bc5fc1a09.ttf",
+    "static/media/웰컴체 Bold.ttf": "/static/media/웰컴체 Bold.e9ba228ee3ad08fbaa59.ttf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.72cf22f2.css.map": "/static/css/main.72cf22f2.css.map",
+    "main.8da6d76d.js.map": "/static/js/main.8da6d76d.js.map",
+    "787.53937788.chunk.js.map": "/static/js/787.53937788.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72cf22f2.css",
+    "static/js/main.8da6d76d.js"
+  ]
+}
