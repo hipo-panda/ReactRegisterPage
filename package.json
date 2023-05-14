@@ -15,6 +15,7 @@
     "styled-components": "^6.0.0-rc.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "http://hipo-panda.github.io/ReactRegisterPage",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
